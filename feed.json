@@ -9,19 +9,5 @@
         "name": "Poppy Nightingale"
     },
     "items": [
-        {
-            "id": "https://poppynightingale.github.io/welcome.html",
-            "url": "https://poppynightingale.github.io/welcome.html",
-            "title": "Welcome ",
-            "summary": "Hello everyone, and a massive, warm welcome to my brand new website! I'm Poppy, and I'm absolutely thrilled to embark&hellip;",
-            "content_html": "\n  <p>\n    Hello everyone, and a massive, warm welcome to my brand new website!\n<br>I'm Poppy, and I'm absolutely thrilled to embark on this incredible journey as a new author. For as long as I can remember, I've been passionate about reading, writing and creating new worlds for people to get lost in!\n<br>Big news! My debut novel, 'Heart Of The Ormran Warrior' a spicy adult Sci-Fi romance packed with adventure is launching on January 1st, 2026! I'm absolutely buzzing with excitement to share it with you!\n<br>Over the coming weeks and months, I plan to share:\n  </p>\n\n  <ul>\n    <li>The Journey to Publication: I'll be sharing behind-the-scenes glimpses of the writing and editing process.</li>\n  </ul>\n\n  <ul>\n    <li>Sneak Peeks &amp; Teasers: Get early hints about the story, characters, and world of my upcoming book.</li>\n  </ul>\n\n  <ul>\n    <li>Cover Reveal Countdown: Be among the first to see the cover!</li>\n  </ul>\n\n  <ul>\n    <li>Launch Updates &amp; Pre-order Info: All the details as we get closer to the big day.</li>\n  </ul>\n\n  <ul>\n    <li>Bookish Chats &amp; Inspirations: Let's talk about our favourite reads, writing, and everything that sparks creativity!</li>\n  </ul>\n\n  <p>\n    I truly believe that stories connect us, and I can't wait to connect with all of you. This is the very beginning, and I'd be honoured to have you join me on this adventure.\n<br><br>Let the countdown begin! \n<br>Warmly,\n<br>Poppy&nbsp;<br>\n  </p>",
-            "author": {
-                "name": "Poppy Nightingale"
-            },
-            "tags": [
-            ],
-            "date_published": "2025-05-30T10:31:02+01:00",
-            "date_modified": "2025-05-30T10:31:02+01:00"
-        }
     ]
 }

@@ -3,63 +3,10 @@
     <title>Poppy Nightingale</title>
     <link href="https://poppynightingale.github.io/feed.xml" rel="self" />
     <link href="https://poppynightingale.github.io" />
-    <updated>2025-05-30T10:31:02+01:00</updated>
+    <updated>1970-01-01T01:00:00+01:00</updated>
     <author>
         <name>Poppy Nightingale</name>
     </author>
     <id>https://poppynightingale.github.io</id>
 
-    <entry>
-        <title>Welcome </title>
-        <author>
-            <name>Poppy Nightingale</name>
-        </author>
-        <link href="https://poppynightingale.github.io/welcome.html"/>
-        <id>https://poppynightingale.github.io/welcome.html</id>
-
-        <updated>2025-05-30T10:31:02+01:00</updated>
-            <summary>
-                <![CDATA[
-                    Hello everyone, and a massive, warm welcome to my brand new website! I'm Poppy, and I'm absolutely thrilled to embark&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                
-  <p>
-    Hello everyone, and a massive, warm welcome to my brand new website!
-<br>I'm Poppy, and I'm absolutely thrilled to embark on this incredible journey as a new author. For as long as I can remember, I've been passionate about reading, writing and creating new worlds for people to get lost in!
-<br>Big news! My debut novel, 'Heart Of The Ormran Warrior' a spicy adult Sci-Fi romance packed with adventure is launching on January 1st, 2026! I'm absolutely buzzing with excitement to share it with you!
-<br>Over the coming weeks and months, I plan to share:
-  </p>
-
-  <ul>
-    <li>The Journey to Publication: I'll be sharing behind-the-scenes glimpses of the writing and editing process.</li>
-  </ul>
-
-  <ul>
-    <li>Sneak Peeks &amp; Teasers: Get early hints about the story, characters, and world of my upcoming book.</li>
-  </ul>
-
-  <ul>
-    <li>Cover Reveal Countdown: Be among the first to see the cover!</li>
-  </ul>
-
-  <ul>
-    <li>Launch Updates &amp; Pre-order Info: All the details as we get closer to the big day.</li>
-  </ul>
-
-  <ul>
-    <li>Bookish Chats &amp; Inspirations: Let's talk about our favourite reads, writing, and everything that sparks creativity!</li>
-  </ul>
-
-  <p>
-    I truly believe that stories connect us, and I can't wait to connect with all of you. This is the very beginning, and I'd be honoured to have you join me on this adventure.
-<br><br>Let the countdown begin! 
-<br>Warmly,
-<br>Poppy&nbsp;<br>
-  </p>
-            ]]>
-        </content>
-    </entry>
 </feed>
