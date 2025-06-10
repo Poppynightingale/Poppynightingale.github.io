@@ -1,12 +1,12 @@
 {
     "version": "https://jsonfeed.org/version/1",
-    "title": "Poppy Nightingale",
+    "title": "Tori Forestar",
     "description": "",
-    "home_page_url": "https://poppynightingale.github.io",
-    "feed_url": "https://poppynightingale.github.io/feed.json",
+    "home_page_url": "https://toriforestar.github.io",
+    "feed_url": "https://toriforestar.github.io/feed.json",
     "user_comment": "",
     "author": {
-        "name": "Poppy Nightingale"
+        "name": "Tori Forestar"
     },
     "items": [
     ]
